@@ -146,7 +146,7 @@ const AttackTrends = () => {
 
   return (
     <div style={{ margin: '20px' }}>
-      <h3>Cyberattacks Trends Between 2015-2024</h3>
+      <h3>Cyberattacks Trends (2015-2024)</h3>
       <svg ref={ref} width={700} height={500}></svg>
     </div>
   );
